@@ -1,0 +1,17 @@
+.formWrapper {
+  background-color: #fafafa;
+  border: #d0d0d0 solid 1px;
+  border-radius: 8px;
+  padding: 24px;
+
+  .form {
+    width: 480px;
+
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+  }
+}
+
